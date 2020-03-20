@@ -7,3 +7,5 @@ token.json/
 
 config.json
 credentials.json
+
+.DS_Store
