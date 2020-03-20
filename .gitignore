@@ -4,3 +4,6 @@
 [Oo]bj/
 
 token.json/
+
+config.json
+credentials.json
