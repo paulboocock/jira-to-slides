@@ -2,7 +2,7 @@
 A dotnet application to turn a Jira project sprint into Google Slides
 
 ### Requirements
-dotnet core 3.1 (https://dotnet.microsoft.com/download/dotnet-core)
+.NET Core 3.1 (https://dotnet.microsoft.com/download/dotnet-core)
 
 ### Build
 
