@@ -1,4 +1,5 @@
 {
+    "ApplicationName": "Jira to Slides",
     "JiraUrl": "",
     "JiraUsername": "",
     "JiraApiKey": "",
